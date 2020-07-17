@@ -17,3 +17,9 @@ end
 
 
 # call your method here!
+array
+
+else
+puts "Hey! No block was given"
+end
+end
